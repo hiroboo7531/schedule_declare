@@ -1,24 +1,26 @@
 # README
+企画
+1日の自分の時間管理が苦手な人向け（自分自身
+テックキャンプで得た「朝礼」というシステムを作りたい
+日記のように後から見返せるようにしたい
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+要件定義
+＜必須＞
+一覧機能
+投稿機能
+編集機能
 
-Things you may want to cover:
+＜入れたい＞
+瞑想機能（音楽を流せる機能）
 
-* Ruby version
+＜追加できたら面白そう＞
+ログイン機能
+コメント機能
 
-* System dependencies
+ーテーブルー
+declareテーブル
+・must_shortカラム
+・must_longカラム
+・want_shortカラム
+・want_longカラム
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
